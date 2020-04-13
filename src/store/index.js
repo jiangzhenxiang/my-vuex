@@ -1,6 +1,9 @@
 import Vue from 'vue'
+// 官方vuex
 // import Vuex from 'vuex';
-import Vuex from '../vuex';
+
+// 简易vuex
+import Vuex from '../vuex/simpleVuex';
 
 Vue.use(Vuex)
 
