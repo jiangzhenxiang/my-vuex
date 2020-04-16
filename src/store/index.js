@@ -3,7 +3,7 @@ import Vue from 'vue'
 // import Vuex from 'vuex';
 
 // 简易vuex
-import Vuex from '../vuex/simpleVuex';
+import Vuex from '../vuex/index';
 
 Vue.use(Vuex)
 
